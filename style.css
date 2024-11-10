@@ -32,8 +32,21 @@ ul.lvlnavbar li a {
     text-decoration: none;
 }
 
+ul.navbar li#gamenamesupercoolright {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 ul.lvlnavbar a:hover {
     background-color: #414141;
+}
+
+ul.lvlnavbar li#gamenamesupercoolright a:hover {
+    background-color: #333;
 }
 
 div.title {
