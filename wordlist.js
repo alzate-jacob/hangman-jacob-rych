@@ -1,4 +1,4 @@
-const wordList = [
+export const wordList = [
     {
         word: "guitar",
         hint: "A musical instrument with strings."
@@ -260,3 +260,4 @@ const wordList = [
         hint: "Exceptionally clever, talented, or impressive."
     },
 ];
+
