@@ -261,3 +261,4 @@ export const wordList = [
     },
 ];
 
+// modules.export = wordList;
